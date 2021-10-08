@@ -1,0 +1,4 @@
+Nombre: Cristian Giraldo Villegas
+Edad: 21
+Aspiraciones: Aprender a usar correctamente Git y Github, aprender todo lo necesario de la POO para poder aplicar los conocimientos 
+		en futuros proyectos
